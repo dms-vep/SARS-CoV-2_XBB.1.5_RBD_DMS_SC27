@@ -1,9 +1,9 @@
-# Deep mutational scanning of SARS-CoV-2 XBB.1.5 RBD and mAb escape mapping
+# Deep mutational scanning of SARS-CoV-2 XBB.1.5 RBD and SC27 mAb escape
 Study by Bernadeta Dadonaite and Jesse Bloom.
 
-This repo contains escape mapping experiments for various mAbs using XBB.1.5 RBD pseudovirus-based DMS libraries.  
+This repo contains escape mapping experiments for various SC27 mAb using XBB.1.5 RBD pseudovirus-based DMS libraries.  
 
-For documentation of the analysis, see [https://dms-vep.github.io/SARS-CoV-2_XBB.1.5_RBD_DMS_mAbs/](https://dms-vep.github.io/SARS-CoV-2_XBB.1.5_RBD_DMS_mAbs/)
+For documentation of the analysis, see [https://dms-vep.github.io/SARS-CoV-2_XBB.1.5_RBD_DMS_SC27/](https://dms-vep.github.io/SARS-CoV-2_XBB.1.5_RBD_DMS_SC27/)
 
 ## Organization of this repo
 
